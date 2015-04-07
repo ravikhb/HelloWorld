@@ -1,2 +1,2 @@
 # HelloWorld
-Git Test
+Git removed Test informaton
